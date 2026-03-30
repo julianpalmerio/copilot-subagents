@@ -1,0 +1,12 @@
+{
+  "name": "data-ai",
+  "description": "Data and AI agents for ML engineering, data science, NLP, MLOps, and LLM architecture",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julian Palmerio",
+    "url": "https://github.com/julianpalmerio"
+  },
+  "license": "MIT",
+  "keywords": ["copilot", "agents", "ai"],
+  "agents": "agents/"
+}

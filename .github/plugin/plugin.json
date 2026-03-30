@@ -1,0 +1,23 @@
+{
+  "name": "copilot-subagents",
+  "description": "A curated collection of 61 expert Copilot CLI agents across 8 domains: core development, language specialists, infrastructure, quality & security, data & AI, developer experience, specialized domains, and research & analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julian Palmerio",
+    "url": "https://github.com/julianpalmerio"
+  },
+  "license": "MIT",
+  "keywords": ["copilot", "agents", "development", "ai", "productivity"],
+  "homepage": "https://github.com/julianpalmerio/copilot-subagents",
+  "repository": "https://github.com/julianpalmerio/copilot-subagents",
+  "agents": [
+    "plugins/core-development/agents/",
+    "plugins/language-specialists/agents/",
+    "plugins/infrastructure/agents/",
+    "plugins/quality-security/agents/",
+    "plugins/data-ai/agents/",
+    "plugins/developer-experience/agents/",
+    "plugins/specialized-domains/agents/",
+    "plugins/research-analysis/agents/"
+  ]
+}

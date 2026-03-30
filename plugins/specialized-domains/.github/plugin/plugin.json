@@ -1,0 +1,12 @@
+{
+  "name": "specialized-domains",
+  "description": "Specialized domain agents for embedded systems, fintech, gaming, IoT, and more",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julian Palmerio",
+    "url": "https://github.com/julianpalmerio"
+  },
+  "license": "MIT",
+  "keywords": ["copilot", "agents", "specialized"],
+  "agents": "agents/"
+}

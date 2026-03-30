@@ -1,0 +1,12 @@
+{
+  "name": "quality-security",
+  "description": "Quality assurance and security agents for testing, code review, compliance, and penetration testing",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julian Palmerio",
+    "url": "https://github.com/julianpalmerio"
+  },
+  "license": "MIT",
+  "keywords": ["copilot", "agents", "quality"],
+  "agents": "agents/"
+}

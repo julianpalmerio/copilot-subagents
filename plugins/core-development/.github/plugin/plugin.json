@@ -1,0 +1,12 @@
+{
+  "name": "core-development",
+  "description": "Core software development agents for APIs, frontend, backend, mobile, and full-stack work",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julian Palmerio",
+    "url": "https://github.com/julianpalmerio"
+  },
+  "license": "MIT",
+  "keywords": ["copilot", "agents", "development"],
+  "agents": "agents/"
+}

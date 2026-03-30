@@ -1,0 +1,12 @@
+{
+  "name": "research-analysis",
+  "description": "Research and analysis agents for competitive intelligence, literature review, and trend analysis",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julian Palmerio",
+    "url": "https://github.com/julianpalmerio"
+  },
+  "license": "MIT",
+  "keywords": ["copilot", "agents", "research"],
+  "agents": "agents/"
+}

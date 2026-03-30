@@ -1,0 +1,12 @@
+{
+  "name": "language-specialists",
+  "description": "Framework and language specialist agents for Go, Python, Ruby, JS/TS stacks",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julian Palmerio",
+    "url": "https://github.com/julianpalmerio"
+  },
+  "license": "MIT",
+  "keywords": ["copilot", "agents", "languages"],
+  "agents": "agents/"
+}

@@ -1,0 +1,61 @@
+{
+  "name": "copilot-subagents",
+  "owner": {
+    "name": "Julian Palmerio",
+    "email": ""
+  },
+  "metadata": {
+    "description": "A curated collection of expert Copilot CLI agents, organized by domain",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "core-development",
+      "description": "Core software development agents for APIs, frontend, backend, mobile, and full-stack work",
+      "version": "1.0.0",
+      "source": "plugins/core-development"
+    },
+    {
+      "name": "language-specialists",
+      "description": "Framework and language specialist agents for Go, Python, Ruby, JS/TS stacks",
+      "version": "1.0.0",
+      "source": "plugins/language-specialists"
+    },
+    {
+      "name": "infrastructure",
+      "description": "Infrastructure and platform agents for cloud, DevOps, Kubernetes, security, and SRE",
+      "version": "1.0.0",
+      "source": "plugins/infrastructure"
+    },
+    {
+      "name": "quality-security",
+      "description": "Quality assurance and security agents for testing, code review, compliance, and pen testing",
+      "version": "1.0.0",
+      "source": "plugins/quality-security"
+    },
+    {
+      "name": "data-ai",
+      "description": "Data and AI agents for ML engineering, data science, NLP, MLOps, and LLM architecture",
+      "version": "1.0.0",
+      "source": "plugins/data-ai"
+    },
+    {
+      "name": "developer-experience",
+      "description": "Developer experience agents for build tooling, documentation, refactoring, and DX",
+      "version": "1.0.0",
+      "source": "plugins/developer-experience"
+    },
+    {
+      "name": "specialized-domains",
+      "description": "Specialized domain agents for embedded systems, fintech, gaming, IoT, and more",
+      "version": "1.0.0",
+      "source": "plugins/specialized-domains"
+    },
+    {
+      "name": "research-analysis",
+      "description": "Research and analysis agents for competitive intelligence, literature review, and trend analysis",
+      "version": "1.0.0",
+      "source": "plugins/research-analysis"
+    }
+  ]
+}

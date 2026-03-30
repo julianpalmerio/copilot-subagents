@@ -1,0 +1,12 @@
+{
+  "name": "infrastructure",
+  "description": "Infrastructure and platform agents for cloud, DevOps, Kubernetes, security, and SRE",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julian Palmerio",
+    "url": "https://github.com/julianpalmerio"
+  },
+  "license": "MIT",
+  "keywords": ["copilot", "agents", "infrastructure"],
+  "agents": "agents/"
+}

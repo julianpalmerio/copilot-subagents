@@ -1,0 +1,12 @@
+{
+  "name": "developer-experience",
+  "description": "Developer experience agents for build tooling, documentation, refactoring, and DX",
+  "version": "1.0.0",
+  "author": {
+    "name": "Julian Palmerio",
+    "url": "https://github.com/julianpalmerio"
+  },
+  "license": "MIT",
+  "keywords": ["copilot", "agents", "dx"],
+  "agents": "agents/"
+}
